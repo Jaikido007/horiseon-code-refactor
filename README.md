@@ -13,7 +13,9 @@ Updated all css* Title elements contain a concise, descriptive title
 
 ## Installation
 
-N/A
+No installation required.  You can visit the deployed site at:
+
+https://jaikido007.github.io/horiseon-code-refactor/
 
 ## Usage
 
